@@ -25,8 +25,8 @@ You may refer lx-zero as lxz, lxzero, zero-lx, zerolx, zlx or just lx-zero. Your
 As a big personal repository, it's where my personal stuff is stored. Why put my personal stuff in the public, you ask? Well
 I plan create a personal site using github pages and I only share what I want the world to know about me.
 
-The third meaning is that it's a directory like `lx-zero/x` where x is a section I plan to put on the site. This meaning
-varies depending on the section you're viewing.
+The third meaning is that it's a directory like `lx-zero.github.io/x` where x is a section I plan to put on the site. 
+This meaning varies depending on the section you're viewing.
 
 ##[Why make a repository?]
 
