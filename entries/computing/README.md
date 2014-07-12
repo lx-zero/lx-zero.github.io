@@ -6,5 +6,5 @@ lx-zero.github.io/entries
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I separated each section by topic and date written.
 
 <ol>
-  <li>The C Programming Language [07/12/2014 - PRESENT]</li>
+  <li>ANSI C "The C Programming Language Second Edition" [07/12/2014 - PRESENT]</li>
 </ol>
