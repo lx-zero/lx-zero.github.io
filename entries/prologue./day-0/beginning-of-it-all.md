@@ -1,2 +1,0 @@
-Beginning of it all
-######################
