@@ -1,4 +1,4 @@
-lx-zero.github.io/entries/computing/ANSI-C
+~/entries/ANSI-C
 =================
 
 ##[Welcome message]
